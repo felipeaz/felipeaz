@@ -28,6 +28,7 @@ My name is Felipe, I'm a Back-end Developer since 2017. Here is my personal spot
   <p>📚 Studying: Software Architecture, Design Pattern, Clean Code and Applying concepts of S.O.L.I.D.</p>
   <p>🚀 Stack: Golang, Kafka, Docker, Redis, NoSQL & SQL, AWS</p>
   <p>🎓 Graduation: Bachelor's Degree in Information Systems at UNESP</p>
+  <p>🎓 MBA: Software Architecture FullCycle: https://mba.fullcycle.com.br/mba </p>
 </div>
   
 <div>
