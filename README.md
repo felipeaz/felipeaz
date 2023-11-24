@@ -1,7 +1,7 @@
 # Hi there, Welcome to my Github!
 
 <div>
-My name is Felipe, I'm a Back-end Developer since 2017. Here is my personal spot where I use my imagination and skills to create amazing applications and implement everything I learn 🚀
+My name is Felipe, I'm a Back-end Developer since 2017. This is my personal spot where I use my imagination and skills to create amazing applications and implement everything I learn 🚀
 </div>
 
  ##
